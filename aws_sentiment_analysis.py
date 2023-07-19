@@ -15,8 +15,8 @@ from botocore.exceptions import ClientError
 
 logger = logging.getLogger(__name__)
 
-ACCESS_ID = "AKIA6KT35UHOCTJD54GF"
-ACCESS_KEY = "E5p2SdDJPjSHxZXKwH9bq6lYf27WMz11ADxI4r3b"
+ACCESS_ID = "***"
+ACCESS_KEY = "***"
 
 
 class ComprehendDetect:
